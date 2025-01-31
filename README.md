@@ -1,1 +1,1 @@
-# ai-fruits-vegetables-classification
+# Классификация фруктов и овощей по изображениям
